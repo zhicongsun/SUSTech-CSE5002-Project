@@ -1,4 +1,4 @@
-Author: Zhicong Sun<br />SID: 12032471<br />Data: 2021.5.30
+Author: Zhicong Sun<br />Data: 2021.5.30
 <a name="RXo4j"></a>
 ## Abstrct
 This my the mini project of CSE5002 Intelligent Data Analysis of South University of Science and Technology.
